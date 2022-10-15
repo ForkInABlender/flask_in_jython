@@ -19,7 +19,7 @@ One can run the flask server. The exceptions presently are as follows:<br>
 
 <h1> What are the advantages of running flask in Jython?</h1><br>
 
-The advantages include:
+The advantages include:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*flask apps being able to use java classes<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*ability to pass data or class instances (if you know what you're doing)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<br>
